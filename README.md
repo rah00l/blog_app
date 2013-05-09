@@ -1,4 +1,4 @@
 blog_app
 ========
 
-simple blog app
+simple blog application.
